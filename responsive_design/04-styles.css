@@ -288,7 +288,8 @@
     background-color: var(--color-primary);
     width: 100%;
   }
-
+  
+  
   @media (max-width: 767px) {
     :root {
         --nav-item-margin: 0;
@@ -297,7 +298,7 @@
       display: none;
       flex: 1;
     }
-    .
+    
     .header .nav {
       flex-direction: column;
       overflow: hidden;
